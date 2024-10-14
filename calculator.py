@@ -3,11 +3,11 @@ def add(x, y):
     pass
 
 def subtract(x, y):
-    # todo
+    return x- y
     pass
 
 def multiply(x, y):
-    # todo
+    
     pass
 
 def divide(x, y):
